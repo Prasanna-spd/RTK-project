@@ -12,6 +12,8 @@
 /build
 
 # misc
+helper.js
+movieapi.js
 .DS_Store
 .env.local
 .env.development.local

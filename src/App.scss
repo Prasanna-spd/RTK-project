@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+// ------------------------------------------------------------------------------------------------
+
+@import "./server/colors.scss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background-color: $primary-color;
+}
+.container {
+  margin: 0px 40px;
 }
